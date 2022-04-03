@@ -76,4 +76,4 @@ def zad3():
 
 
 if __name__ == "__main__":
-    zad_1_median(noise_img)
+    zad2(unchanged_img)
